@@ -1,6 +1,9 @@
 
 
 total = 1
+car = 4
+tim  = 7
+
 
 # need to figure out how to check if even the add to total. 
 # right now total is out of scope so we need to figure out 
